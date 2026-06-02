@@ -3,29 +3,24 @@
 I work around agents, knowledge systems, and personal publishing.
 
 This page is intentionally small. I am interested in software as a way of
-thinking in public: tools that keep context alive, notes that become useful
-again, and contributions that leave a project easier to understand.
+thinking in public: tools that keep context alive, interfaces that change how
+people read and write, and systems that make memory operational rather than
+decorative.
 
 ## Current Interests
 
 | Area | Notes |
 | --- | --- |
-| Agents | Memory, context, handoffs, and the everyday ergonomics of working with AI tools. |
-| Knowledge systems | Retrieval, schemas, personal archives, and better ways to make old thinking return at the right time. |
-| Personal publishing | A website as a working room: writing, projects, notes, and slow public traces. |
-| Open source | Small PRs, documentation fixes, and narrow changes that respect maintainer attention. |
-
-## Public Work
-
-- [vibe-harness](https://github.com/myshkin451/vibe-harness) - a lightweight harness for AI coding projects.
-- [code-rag](https://github.com/myshkin451/code-rag) - experiments around code retrieval and context.
-- [myshkin-github-radar](https://github.com/myshkin451/myshkin-github-radar) - a small GitHub API profile/repository signal tool.
-- [www.myshkin451.com](https://www.myshkin451.com) - personal website, still being shaped.
+| Agentic systems | Long-running agents, tool use, memory, evaluation, and the boundary between autonomy and taste. |
+| Context infrastructure | RAG, code understanding, knowledge graphs, provenance, and the problem of making context arrive alive. |
+| Personal knowledge OS | Notes, archives, reading traces, private workflows, and the shape of a mind extended through software. |
+| Publishing as interface | Websites, digital gardens, and public writing that behave less like a portfolio and more like a living workspace. |
+| AI-native development | Coding environments where humans, agents, tests, and documentation negotiate with each other in the open. |
 
 ## Notes
 
-I prefer quiet work over performance: read first, change narrowly, explain the
-tradeoff, leave a trace that helps the next reader.
+I prefer quiet work over performance: read first, change narrowly, explain
+tradeoffs, and leave traces that make future understanding easier.
 
-The public repositories are uneven, as all workshops are. The useful part is not
-to pretend otherwise, but to keep making better evidence.
+I am not listing projects here until they can stand without apology. For now,
+this is a small marker of direction rather than a display case.
